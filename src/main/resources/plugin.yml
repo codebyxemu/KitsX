@@ -1,0 +1,5 @@
+name: KitsX
+version: ${project.version}
+main: me.xemu.kitsx.KitsX
+api-version: 1.16
+authors: [ Xemu, KvinneKraft ]
